@@ -1,0 +1,2 @@
+# reduceMethod
+Created with CodeSandbox
